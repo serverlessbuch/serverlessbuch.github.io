@@ -1,5 +1,41 @@
-theme: jekyll-theme-cayman
-title: Serverlose Cloud-Architekturen
-author:
-  name:       Niko Köbler
-  url:        http://www.n-k.de
+name: Serverless Buch
+description: Anwendungen mit AWS Lambda, Amazon API Gateway und Amazon DynamoDB
+author: Niko Köbler
+
+url: http://serverlessbuch.de
+google_analytics: UA-593279-7
+
+social:
+  email: info@serverlessbuch.de
+  github: serverlessbuch
+  twitter: serverlessbuch
+
+
+defaults:
+  -
+    scope:
+      path: "" # emtpy means all files
+      type: posts
+    values:
+      layout: post
+      author: Niko Köbler
+
+markdown: kramdown
+#highlighter: rouge
+permalink: /:year/:month/:title.html
+
+sass:
+  style: :compressed
+#  style: :expanded # You might prefer to minify using :compressed
+
+# Use the following plug-ins
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
+
+# Exclude these files from your production _site
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME

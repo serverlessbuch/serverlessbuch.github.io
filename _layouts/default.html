@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="{{ site.author }}">
+    <link rel="icon" href="/favicon.ico">
+
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="{{ site.baseurl }}/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ site.baseurl }}/css/custom.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/">{{ site.name }}</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/imprint">Impressum</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    {{ content }}
+
+    <div class="container">
+      <hr>
+      <footer>
+        <div class="row">
+          <div class="col-sm-12 col-md-3">
+            &copy; 2017 <a href="http://www.n-k.de" target="_blank">{{ site.author }}</a>
+          </div>
+          <div class="col-sm-12 col-md-3">
+            <i class="fa fa-envelope-o"></i>
+            <a href="mailto:{{site.social.email}}">{{ site.social.email }}</a>
+          </div>
+          <div class="col-sm-12 col-md-3">
+            <i class="fa fa-twitter"></i>
+            <a href="https://twitter.com/{{site.social.twitter}}">@{{ site.social.twitter }}</a>
+          </div>
+          <div class="col-sm-12 col-md-3">
+            <i class="fa fa-github"></i>
+            <a href="https://github.com/{{site.social.github}}">{{ site.social.github }}</a>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+    <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="{{ site.baseurl }}/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="{{ site.baseurl }}/js/custom.js"></script>
+    {% include analytics.html %}
+  </body>
+</html>
