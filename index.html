@@ -4,10 +4,16 @@ layout: default
 
 <div class="jumbotron">
   <div class="container">
+    <img src="/images/cover.jpg" style="width: 220px; margin-top: 25px; margin-right: 20px;" class="pull-left"/>
     <h1>{{ site.name }}</h1>
-    <p>{{ site.description }}</p>
-    <p>Erscheint im Herbst bei <a href="https://entwickler.de/press" target="_blank">entwickler.press</a></p>
-    <p><a class="btn btn-primary btn-lg" href="#" role="button">Demnächst mehr...</a></p>
+    <h3>{{ site.description }}</h3>
+    <p>von {{ site.author }}</p>
+    <p>
+      Erscheint im Herbst bei <a href="https://entwickler.de/press" target="_blank">entwickler.press</a>
+      und ist jetzt bereits <a href="{{ site.amazon }}" target="_blank">vorbestellbar!</a>
+    </p>
+    <p><a class="btn btn-primary btn-lg" href="{{ site.amazon }}" target="_blank" role="button">Jetzt vorbestellen!</a></p>
+    <div><a href="/info">Mehr Informationen zum Buch und Autor &raquo;</a></div>
   </div>
 </div>
 <!--

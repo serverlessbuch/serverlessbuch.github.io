@@ -1,5 +1,5 @@
-name: Serverless Buch
-description: Cloud-Architekturen mit AWS Lambda, Amazon API Gateway und Amazon DynamoDB
+name: Serverless Computing
+description: in der AWS Cloud
 author: Niko Köbler
 
 url: http://serverlessbuch.de
@@ -10,6 +10,7 @@ social:
   github: serverlessbuch
   twitter: serverlessbuch
 
+amazon: https://www.amazon.de/dp/3868028072/
 
 defaults:
   -
