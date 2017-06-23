@@ -4,6 +4,18 @@ title: Buch-Info
 permalink: /info/
 ---
 
+<img src="/images/cover.jpg" style="width: 220px; margin-right: 20px;" class="pull-left"/>
+**Autor:** Niko Köbler  
+**Erscheinungsdatum:** Herbst 2017  
+**Seiten:** ca. 300  
+**ISBN:** 978-3-86802-807-2  
+**Preis:** 29,90 €  
+**PDF-ISBN:** 978-3-86802-364-0  
+**PDF-Preis:** 22,99 €  
+**EPUB-ISBN:** 978-3-86802-780-8  
+**EPUB-Preis:** 22,99 €
+<div class="clearfix"></div>
+
 _Serverless_ heißt das neue Trend-Thema im Bereich des Cloud Computing.
 Dabei meint _Serverless_ nicht, dass man keine Server mehr benötigt. Es geht vielmehr darum, sich auf die Ausführung seines Codes auf der Ebene von einzelnen Funktionen zu konzentrieren und das Management der Serverinstanzen, der Verfügbarkeit und Skalierbarkeit der Cloud zu überlassen.
 Zudem bezahlt man bei „Serverless“ nur das, was man wirklich nutzt, keine Kosten für die bloße Bereitstellung oder Verfügbarkeit.
