@@ -10,7 +10,9 @@ social:
   github: serverlessbuch
   twitter: serverlessbuch
 
-amazon: https://www.amazon.de/dp/3868028072/
+links:
+  amazon: https://www.amazon.de/dp/3868028072/
+  entwickler: https://entwickler.de/?p=579804107
 
 defaults:
   -
