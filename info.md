@@ -34,6 +34,7 @@ Das Buch richtet sich an alle Software-Entwickler und -Architekten, egal ob mit 
 
 #### Über den Autor
 
+<img src="/images/nko.png" class="authorpic"/>
 <a href="http://www.n-k.de" target="_blank"><strong>Niko Köbler</strong><a/> (<a href="https://twitter.com/dasniko" target="_blank"><i class="fa fa-twitter"></i> @dasniko</a>) ist freiberuflicher Software-Architekt, Entwickler und Trainer für Java und JavaScript Enterprise- und Web-Anwendungen.
 Seit über 15 Jahren berät er seine Kunden quer über alle Branchen hinweg, sowohl für Cloud- wie auch On-Premise-Lösungen.
 Er ist als Autor für Fachmagazine und Online-Portale tätig und tritt als Sprecher auf internationalen Technologie-Konferenzen auf.
