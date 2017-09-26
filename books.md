@@ -23,6 +23,8 @@ Diese sind entweder bereits im Buch genannt oder haben im weitesten Sinne etwas 
 
 ##### Andere
 
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=dasniko-21&marketplace=amazon&region=DE&placement=3864905257&asins=3864905257&linkId=9b5e7fa148b87215a5fb69112ae326fd&show_border=true&link_opens_in_new_window=true"></iframe>
+
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=dasniko-21&marketplace=amazon&region=DE&placement=3864901200&asins=3864901200&linkId=5d2d311b66177f9e72f540d4a5cc3ec6&show_border=true&link_opens_in_new_window=true"></iframe>
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=DE&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=dasniko-21&marketplace=amazon&region=DE&placement=3864903130&asins=3864903130&linkId=6e2640dacef237cb74a6f07512fc94c5&show_border=true&link_opens_in_new_window=true"></iframe>

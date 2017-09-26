@@ -6,8 +6,8 @@ permalink: /info/
 
 <img src="/images/cover.jpg" style="width: 220px; margin-right: 20px;" class="pull-left"/>
 **Autor:** Niko Köbler  
-**Erscheinungsdatum:** Herbst 2017  
-**Seiten:** ca. 300  
+**Erscheinungsdatum:** 29.09.2017  
+**Seiten:** 260  
 **ISBN:** 978-3-86802-807-2  
 **Preis:** 29,90 €  
 **PDF-ISBN:** 978-3-86802-364-0  
@@ -25,6 +25,27 @@ Das Buch führt in die Konzepte von Serverless Computing am Beispiel der AWS (Am
 AWS Lambda hat den Begriff Serverless geprägt, doch Serverless ist mehr als nur die Ausführung von Funktionen als Service _(Function-as-a-Service, kurz FaaS)_.
 Auch in Richtung von API Gateways, Datenspeichern wie Amazon DynamoDB und weiteren Komponenten lässt sich _serverless_ denken.
 Praxisnahe Beispiele helfen beim Einstieg in die Serverless Welt.
+
+#### Inhaltsverzeichnis
+
+1. **Serverless Computing**  
+_Was heißt und bedeutet Serverless? Wo(für) kann ich es einsetzen? Vor- und Nachteile, etc._
+1. **AWS Lambda**  
+_Funktionen, Programmiersprachen und -modell, Container, Skalierung, Caching, Events, Versionierung/Aliase, Umgebungsvariablen, Logging, etc._
+1. **Amazon API Gateway**  
+_Datenmodelle, Mapping Templates, Stages, Deployment, Sicherheit, eigene Domains, etc._
+1. **Amazon DynamoDB**  
+_Kapazitäten, Skalierung, Datenstrukturen, Primäre und Sekundäre Indizes, Sicherheit, Trigger, Events, Streams, API, etc._
+1. **Deployment und Tools**  
+_AWS CLoudFormation, AWS SAM, Serverless Framework, Automatisierung, etc._
+1. **[Beispielanwendungen](/examples/)**  
+_siehe Link_
+1. **Anhang A: AWS Limits**  
+_Limits bei AWS Lambda, Amazon API Gateway und Amazon DynamoDB_
+1. **Anhang B: Debugging und Testen**  
+_Ein kurzer Ausblick auf AWS X-Ray, Localstack und LambCI_
+1. **Anhang C: [30 (kritische) Fragen an Serverless Fanboys](/30questions/)**  
+_siehe Link_
 
 
 #### Zielgruppe
