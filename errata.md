@@ -6,6 +6,11 @@ permalink: /errata/
 
 Niemand ist perfekt und jeder macht Fehler, so auch ich.
 
+##### Kapitel 1.9.5, Seite 46
+
+Gemeint sind natürlich **textbasierte** und nicht testbasierte Chatbots :-)  
+_(Vielen Dank an [@RalfDMueller](https://twitter.com/RalfDMueller))_
+
 ##### Kapitel 2.5, Seite 66
 
 Mit dem zweiten Aufzählungszeichen werden fälschlicherweise zwei Sprachen genannt.
