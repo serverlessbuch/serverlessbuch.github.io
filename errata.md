@@ -21,5 +21,6 @@ _(Vielen Dank an [@walery](https://twitter.com/walery))_
 ---
 
 Weitere Fehler gefunden oder Korrekturvorschläge?  
-Erstelle einen Pull-Request für das GitHub Repository [`serverlessbuch/serverlessbuch.github.io`](https://github.com/serverlessbuch/serverlessbuch.github.io)  
+Erstelle einen Pull-Request für das GitHub Repository [`serverlessbuch/serverlessbuch.github.io`](https://github.com/serverlessbuch/serverlessbuch.github.io)
+oder sende eine E-Mail an [info@serverlessbuch.de](mailto:info@serverlessbuch.de).  
 Nach einem Review veröffentliche ich diese gerne hier.
