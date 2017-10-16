@@ -17,6 +17,10 @@ Mit dem zweiten Aufzählungszeichen werden fälschlicherweise zwei Sprachen gena
 Die Programmiersprache **Python** in Version 2.7 ist natürlich eine eigenständige Sprache und hat nichts mit JavaScript zu tun.  
 _(Vielen Dank an [@walery](https://twitter.com/walery))_
 
+##### Kapitel 6.3.1, Seite 218
+
+Alexa ist nicht ganz so gefährlich wie hier dargestellt, denn es ist nicht das `alexas-kills-kit`, sondern das **`alexa-skills-kit`** :-)  
+_(Vielen Dank an [@RalfDMueller](https://twitter.com/RalfDMueller))_
 
 ---
 
