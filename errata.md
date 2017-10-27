@@ -17,9 +17,9 @@ Mit dem zweiten Aufzählungszeichen werden fälschlicherweise zwei Sprachen gena
 Die Programmiersprache **Python** in Version 2.7 ist natürlich eine eigenständige Sprache und hat nichts mit JavaScript zu tun.  
 _(Vielen Dank an [@walery](https://twitter.com/walery))_
 
-##### Kapitel 3.2.1, Seite 128/129
+##### Kapitel 3.2.1, Seiten 128/129
 
-Das Property `categories` in den JSON Schemata auf beiden Seiten muss richtig `subcategories` heißen.
+Das Property `categories` in den JSON Schemata auf beiden Seiten muss richtig `subcategories` heißen.  
 _(Vielen Dank an [@walery](https://twitter.com/walery))_
 
 ##### Kapitel 6.3.1, Seite 218
