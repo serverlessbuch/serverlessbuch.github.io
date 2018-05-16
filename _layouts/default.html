@@ -7,13 +7,12 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="{{ page.title }} {{ site.description }}">
     <meta name="author" content="{{ site.author }}">
-    <link rel="icon" href="/favicon.ico">
 
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     <!-- Bootstrap core CSS -->
     <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
-    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/font-awesome.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="{{ site.baseurl }}/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
@@ -79,7 +78,7 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://code.jquery.com/jquery-2.2.3.min.js"></script>
+    <script src="{{ site.baseurl }}/js/jquery-3.3.1.min.js"></script>
     <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="{{ site.baseurl }}/js/ie10-viewport-bug-workaround.js"></script>
