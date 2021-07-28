@@ -11,7 +11,6 @@ In den Orscheläckern 32
 64354 Reinheim
 
 Kontakt:  
-Telefon: +49.172.6714839  
 E-Mail: info@serverlessbuch.de
 
 USt-IdNr. (gemäß § 27a UStG): DE282141306
